@@ -1,0 +1,28 @@
+body {
+  font-family: "prompt";
+  color: white;
+  font-weight: 400;
+}
+
+div.page {
+  background-image: linear-gradient(135deg, #0f172a, #2563eb);
+}
+p {
+  padding: 0px 40px;
+}
+.head {
+  color: rgb(125, 168, 206);
+  font-weight: 550;
+}
+.title {
+  font-weight: 800;
+  font-size: 34px;
+}
+.article {
+  color: aliceblue;
+}
+a.link {
+  font-weight: 550;
+  color: white;
+  padding: 0px 40px;
+}

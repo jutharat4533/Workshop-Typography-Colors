@@ -1,0 +1,38 @@
+p {
+  font-family: "prompt";
+}
+article header {
+  background: #f9fafc;
+}
+
+p.category {
+  margin: 0px 0px 12px;
+  font-size: 14px;
+  font-weight: 700;
+  color: rgb(37, 99, 235);
+}
+
+h1.title {
+  margin: 0px 0px 12px;
+  font-family: Georgia;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.2;
+  color: rgb(15, 23, 42);
+  box-sizing: border-box;
+}
+
+p.meta {
+  margin: 0px 0px 20px;
+  font-size: 14px;
+  color: rgb(100, 116, 139);
+  box-sizing: border-box;
+}
+
+p.lead {
+  margin: 0px;
+  font-size: 18px;
+  line-height: 1.7;
+  color: rgb(51, 65, 85);
+  box-sizing: border-box;
+}
